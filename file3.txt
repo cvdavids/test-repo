@@ -1,3 +1,3 @@
 Third file created to play with git and github.
-
+Enter data on line 2 - verify that change from Github UI will show in git.
 
